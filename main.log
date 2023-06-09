@@ -1,0 +1,7 @@
+Start time : 2023-06-09 12:17:22.350114, name = get_name, "args"=('10006',), result = Аристарх Павлов
+Start time : 2023-06-09 12:17:22.351115, name = get_directory, "args"=('11-2',), result = 1
+Start time : 2023-06-09 12:17:22.351115, name = get_name, "args"=('101',), result = Документ не найден
+Start time : 2023-06-09 12:17:22.351115, name = add, "args"=('international passport', '311 020203', 'Александр Пушкин', 3), result = None
+Start time : 2023-06-09 12:17:22.351115, name = get_directory, "args"=('311 020203',), result = 3
+Start time : 2023-06-09 12:17:22.351115, name = get_name, "args"=('311 020203',), result = Александр Пушкин
+Start time : 2023-06-09 12:17:22.351115, name = get_directory, "args"=('311 020204',), result = Полки с таким документом не найдено
